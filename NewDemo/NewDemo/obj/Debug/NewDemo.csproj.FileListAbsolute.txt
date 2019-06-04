@@ -1,0 +1,15 @@
+C:\Demo\NewDemo\NewDemo\bin\Debug\NewDemo.exe.config
+C:\Demo\NewDemo\NewDemo\bin\Debug\NewDemo.exe
+C:\Demo\NewDemo\NewDemo\bin\Debug\NewDemo.pdb
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo.csprojAssemblyReference.cache
+C:\Demo\NewDemo\NewDemo\obj\Debug\MainWindow.g.cs
+C:\Demo\NewDemo\NewDemo\obj\Debug\App.g.cs
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo_MarkupCompile.cache
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo_MarkupCompile.lref
+C:\Demo\NewDemo\NewDemo\obj\Debug\MainWindow.baml
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo.g.resources
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo.Properties.Resources.resources
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo.csproj.GenerateResource.cache
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo.csproj.CoreCompileInputs.cache
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo.exe
+C:\Demo\NewDemo\NewDemo\obj\Debug\NewDemo.pdb
